@@ -43,7 +43,9 @@
 
 ## 009 - Arrays
 
--
+## 010 - DOM
+
+- 
 
 ### Início do Curso em 14/08/2023
 ### Reinício do Curso em 30/10/2023
