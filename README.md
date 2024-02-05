@@ -49,6 +49,11 @@
 
 ## 012 - Timers
 
+- O **setTimeout** é usado para executar uma função após um certo período de tempo.
+- O **setInterval** é usado para executar uma função repetidamente em intervalos regulares de tempo.
+
+## 013 - Javascript Assíncrono
+
 
 ### Início do Curso em 14/08/2023
 ### Reinício do Curso em 30/10/2023
