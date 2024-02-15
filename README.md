@@ -1,8 +1,3 @@
-# Inspirações de Layouts:
-
-- Pinterest
-- Dribbble
-
 # Anotações do Curso de Javascript
 
 ## 001 - Introdução
@@ -53,7 +48,3 @@
 - O **setInterval** é usado para executar uma função repetidamente em intervalos regulares de tempo.
 
 ## 013 - Javascript Assíncrono
-
-
-### Início do Curso em 14/08/2023
-### Reinício do Curso em 30/10/2023
